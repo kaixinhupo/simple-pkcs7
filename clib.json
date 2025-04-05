@@ -1,0 +1,8 @@
+{
+  "name": "simple-pkcs7",
+  "version": "0.1",
+  "repo": "https://github.com/kaixinhupo/simple-pkcs7",
+  "description": "a pkcs7 implementation",
+  "keywords": ["pkcs", "cryptography"],
+  "src": ["pkcs.c", "pkcs.h"]
+}
